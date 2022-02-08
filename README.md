@@ -2,9 +2,9 @@
 
 [![Website](https://img.shields.io/website?down_color=darkred&down_message=offline&label=erikhunter.dev&style=for-the-badge&up_color=darkgreen&up_message=online&url=https%3A%2F%2Fwww.erikhunter.dev)](https://erikhunter.dev)
 
-## I'm a Front-End Developer
+## I'm a Full-Stack Developer
 
-- 🔭 I'm actively seeking employment for front-end development roles
+- 🔭 I'm actively seeking employment for full-stack development roles
 - 🌱 I’m currently learning just about everything to do with front-end development🤣
 - 👯 I recently finished a pretty cool messaging application called Chatster
 - 🥅 2022 Goals: Contribute more to Open Source projects
