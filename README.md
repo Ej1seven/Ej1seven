@@ -5,7 +5,7 @@
 ## I'm a Full-Stack Developer
 
 -  I'm actively seeking employment for full-stack development roles
--  A few technologies I've been working with recently are Javascript, Typescript, Node.js, React, Next,js, SQL, and Prisma 2
+-  A few technologies I've been working with recently are Javascript, Typescript, Node.js, React, Next.js, SQL, and Prisma 2
 -  I recently finished a Web3 application called Kryptoturf
 -  2023 Goals: Contribute more to Open Source projects
 
