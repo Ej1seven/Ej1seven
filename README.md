@@ -59,7 +59,9 @@
 <!-- BLOG-POST-LIST:START -->
 
 - [4 Essential Elements, All Web Developers Should Include In Their Next Portfolio Project](https://www.linkedin.com/pulse/4-essential-elements-all-web-developers-should-include-erik-hunter/?trackingId=XcUBMeijTuS1ROAOYrFVrQ%3D%3D)
-- [4 Essential Elements, All Web Developers Should Include In Their Next Portfolio Project](https://www.linkedin.com/pulse/4-essential-elements-all-web-developers-should-include-erik-hunter/?trackingId=XcUBMeijTuS1ROAOYrFVrQ%3D%3D)
+- [How to Upload, Display, and Save Images using Node.js and React](https://codebuff.hashnode.dev/how-to-upload-display-and-save-images-using-nodejs-and-react)
+- [Simple Styling with Tailwind CSS and React](https://codebuff.hashnode.dev/simple-styling-with-tailwind-css-and-react)
+
 <!--- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
