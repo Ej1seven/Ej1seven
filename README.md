@@ -1,6 +1,6 @@
 ### Hi there, I'm Erik 👋
 
-[![Website](https://img.shields.io/website?down_color=darkred&down_message=offline&label=erikhunter.dev&style=for-the-badge&up_color=darkgreen&up_message=online&url=https%3A%2F%2Fwww.erikhunter.dev)](https://erikhunter.dev)
+[![Website](https://img.shields.io/website?down_color=darkred&down_message=offline&label=erikhunter.dev&style=for-the-badge&up_color=darkgreen&up_message=online&url=https%3A%2F%2Fwww.erikhunter.dev)](https://www.erikhunter.dev)
 
 ## I'm a Full-Stack Developer
 
