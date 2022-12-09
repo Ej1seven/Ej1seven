@@ -4,10 +4,10 @@
 
 ## I'm a Full-Stack Developer
 
-- 🔭 I'm actively seeking employment for full-stack development roles
-- 🌱 I’m currently learning just about everything to do with front-end and back-end development🤣
-- 👯 I recently finished a pretty cool messaging application called Chatster
-- 🥅 2022 Goals: Contribute more to Open Source projects
+-  I'm actively seeking employment for full-stack development roles
+-  A few technologies I've been working with recently are Javascript, Typescript, Node.js, React, Next,js, SQL, and Prisma 2
+-  I recently finished a Web3 application called Kryptoturf
+-  2023 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
