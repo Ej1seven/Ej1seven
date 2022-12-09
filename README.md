@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?down_color=darkred&down_message=offline&label=www.erikhunter.dev&style=for-the-badge&up_color=darkgreen&up_message=online&url=https%3A%2F%2Fwww.erikhunter.dev)](https://erikhunter.dev)
 
-## I'm a Full-Stack Developer
+## I'm a Front End Developer
 
 -  I'm actively seeking employment for full-stack development roles
 -  A few technologies I've been working with recently are Javascript, Typescript, Node.js, React, Next.js, SQL, and Prisma 2
