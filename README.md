@@ -2,12 +2,12 @@
 
 [![Website](https://img.shields.io/website?down_color=darkred&down_message=offline&label=www.erikhunter.dev&style=for-the-badge&up_color=darkgreen&up_message=online&url=https%3A%2F%2Fwww.erikhunter.dev)](https://erikhunter.dev)
 
-## I'm a Front End Developer
+## I'm a Full Stack Developer
 
--  I'm actively seeking employment for full-stack development roles
--  A few technologies I've been working with recently are Javascript, Typescript, Node.js, React, Next.js, SQL, and Prisma 2
--  I recently finished a Web3 application called Kryptoturf
--  2023 Goals: Contribute more to Open Source projects and learn React Native
+-  I'm actively seeking employment for junior software developer roles
+-  A few technologies I've been working with recently are Java, Javascript, Typescript, Node.js, React, Next.js, SQL, and Prisma 2
+-  I recently finished a Web3 blockchain application called Kryptoturf
+-  2023 Goals: Join a Cohort with like-minded developers and gain a deeper understanding of Angular
 
 ### Connect with me:
 
