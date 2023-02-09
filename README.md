@@ -4,9 +4,9 @@
 
 ## I'm a Full Stack Developer
 
--  I'm actively seeking employment for junior software developer roles
+-  I'm currently exploring new opportunites to fulfill a junior software developer role
 -  A few technologies I've been working with recently are Java, Javascript, Typescript, Node.js, React, Next.js, SQL, and Prisma 2
--  I recently finished a Web3 blockchain application called Kryptoturf
+-  I recently completed a full stack Web3 blockchain application called Kryptoturf
 -  2023 Goals: Join a cohort and gain a deeper understanding of Angular
 
 ### Connect with me:
