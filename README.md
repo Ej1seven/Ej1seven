@@ -10,7 +10,7 @@
 
 💡 Continuous learning is my mantra. In the fast-paced world of technology, staying ahead requires perpetual curiosity. Whether it's exploring new frameworks, mastering the latest coding languages, or diving into emerging trends, I'm always hungry for knowledge. I believe in the power of adaptability, and I'm committed to evolving into a well-rounded software developer.
 
-🛠️ My skill set spans across the web development landscape, from front-end technologies like HTML, CSS, and JavaScript to back-end frameworks such as Node.js and Django. I'm well-versed in responsive design, ensuring seamless experiences across devices. Proficient in version control systems like Git, I bring order to code chaos and foster a collaborative coding culture.
+🛠️ My skill set spans across the web development landscape, from front-end technologies like HTML, CSS, and JavaScript to back-end frameworks such as Node.js and PostgreSQL. I'm well-versed in responsive design, ensuring seamless experiences across devices. Proficient in version control systems like Git, I bring order to code chaos and foster a collaborative coding culture.
 
 📈 My goal is not just to write code but to build solutions that make a meaningful impact. Whether it's optimizing performance, enhancing user interfaces, or solving complex problems, I approach each project with a blend of creativity and pragmatism.
 
