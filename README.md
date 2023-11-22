@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?down_color=darkred&down_message=offline&label=www.erikhunter.dev&style=for-the-badge&up_color=darkgreen&up_message=online&url=https%3A%2F%2Fwww.erikhunter.dev)](https://erikhunter.dev)
 
-## I'm a Full Stack Developer
+## I'm a Full Stack Web Developer
 
 🌐 As a seasoned web developer, I thrive in the dynamic realm of coding and enjoy the ever-evolving challenges that come with it. My journey began with a simple "Hello, World!" and has since evolved into a deep-seated passion for creating robust, user-friendly applications.
 
