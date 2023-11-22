@@ -45,9 +45,6 @@ Let's code the future together! 🌐💻✨ Connect with me, and let's embark on
 
 ### 📺 Latest Coding Project - UTA Mobile Application
 
-[![](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7133037845639831554)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7133037845639831554)
-
-<!-- <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7133037845639831554" height="884" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <!-- -->
 
 ### 📺 Latest YouTube Videos
