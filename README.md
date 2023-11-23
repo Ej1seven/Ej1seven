@@ -45,10 +45,8 @@ Let's code the future together! 🌐💻✨ Connect with me, and let's embark on
 
 ### 📺 Latest Coding Project - UTA Mobile Application
 
-<div>
+[![Link text]()](https://youtu.be/_8Q4Jvin8ts?si=2dZjiuS8zdoDZGnI)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_8Q4Jvin8ts?si=2dZjiuS8zdoDZGnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
 <!-- -->
 <!--
 ### 📺 Latest YouTube Videos -->
