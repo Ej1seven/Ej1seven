@@ -45,7 +45,7 @@ Let's code the future together! 🌐💻✨ Connect with me, and let's embark on
 
 ### 📺 Latest Coding Project - UTA Mobile Application
 
-[<img align="center" alt="Shopify" src="photos\UTA Mobile Logo.png" />](https://youtu.be/_8Q4Jvin8ts?si=2dZjiuS8zdoDZGnI)
+[<img align="center" alt="UTA Mobile App" src="photos\UTA Mobile Logo.png" />](https://youtu.be/_8Q4Jvin8ts?si=2dZjiuS8zdoDZGnI)
 
 <!-- -->
 <!--
@@ -63,8 +63,9 @@ Let's code the future together! 🌐💻✨ Connect with me, and let's embark on
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 -->
-<br />
-<br />
+<!-- <br />
+<br /> -->
+
 ---
 
 ### 📕 Latest Articles
