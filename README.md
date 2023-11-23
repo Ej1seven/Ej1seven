@@ -49,7 +49,7 @@ Let's code the future together! 🌐💻✨ Connect with me, and let's embark on
 
 [<img alt="UTA Mobile App" src="photos\UTA Mobile Logo.png" />](https://youtu.be/_8Q4Jvin8ts?si=2dZjiuS8zdoDZGnI)
 
-<p width="50px">This application is a one-stop hub for all things library-related! As a web developer, I embarked on this journey to create an app that seamlessly brings together students and faculty, providing easy access to vital information and services offered by our esteemed library.</p>
+<p>This application is a one-stop hub for all things library-related! As a web developer, I embarked on this journey to create an app that seamlessly brings together students and faculty, providing easy access to vital information and services offered by our esteemed library.</p>
 
 <!-- -->
 <!--
