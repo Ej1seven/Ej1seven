@@ -45,7 +45,10 @@ Let's code the future together! 🌐💻✨ Connect with me, and let's embark on
 
 ### 📺 Latest Coding Project - UTA Mobile Application
 
+## To get a detailed look at the features of this app, simply click the thumbnail below to view a walkthrough.
+
 [<img align="center" alt="UTA Mobile App" src="photos\UTA Mobile Logo.png" />](https://youtu.be/_8Q4Jvin8ts?si=2dZjiuS8zdoDZGnI)
+This application is a one-stop hub for all things library-related! As a web developer, I embarked on this journey to create an app that seamlessly brings together students and faculty, providing easy access to vital information and services offered by our esteemed library.
 
 <!-- -->
 <!--
@@ -63,8 +66,6 @@ Let's code the future together! 🌐💻✨ Connect with me, and let's embark on
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 -->
-<!-- <br />
-<br /> -->
 
 ---
 
