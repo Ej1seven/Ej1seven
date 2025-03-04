@@ -1,20 +1,20 @@
-### Hi there, I'm Erik 👋
+### Hi there, I'm Erik 👋🏾
 
 [![Website](https://img.shields.io/website?down_color=darkred&down_message=offline&label=www.erikhunter.dev&style=for-the-badge&up_color=darkgreen&up_message=online&url=https%3A%2F%2Fwww.erikhunter.dev)](https://erikhunter.dev)
 
 ## I'm a Full Stack Web Developer
 
-🌐 As a seasoned web developer, I thrive in the dynamic realm of coding and enjoy the ever-evolving challenges that come with it. My journey began with a simple "Hello, World!" and has since evolved into a deep-seated passion for creating robust, user-friendly applications.
+As a seasoned web developer, I thrive in the dynamic realm of coding and enjoy the ever-evolving challenges that come with it. My journey began with a simple "Hello, World!" and has since evolved into a deep-seated passion for creating robust, user-friendly applications.
 
-🤝 Collaboration is at the heart of my process. I firmly believe that the best solutions emerge when brilliant minds come together. I love working in tandem with fellow developers, designers, and stakeholders to transform ideas into reality. The thrill of seeing a project come to life through collective effort is what fuels my enthusiasm.
+Collaboration is at the heart of my process. I firmly believe that the best solutions emerge when brilliant minds come together. I love working in tandem with fellow developers, designers, and stakeholders to transform ideas into reality. The thrill of seeing a project come to life through collective effort is what fuels my enthusiasm.
 
-💡 Continuous learning is my mantra. In the fast-paced world of technology, staying ahead requires perpetual curiosity. Whether it's exploring new frameworks, mastering the latest coding languages, or diving into emerging trends, I'm always hungry for knowledge. I believe in the power of adaptability, and I'm committed to evolving into a well-rounded software developer.
+Continuous learning is my mantra. In the fast-paced world of technology, staying ahead requires perpetual curiosity. Whether it's exploring new frameworks, mastering the latest coding languages, or diving into emerging trends, I'm always hungry for knowledge. I believe in the power of adaptability, and I'm committed to evolving into a well-rounded software developer.
 
-🛠️ My skill set spans across the web development landscape, from front-end technologies like HTML, CSS, and JavaScript to back-end frameworks such as Node.js and PostgreSQL. I'm well-versed in responsive design, ensuring seamless experiences across devices. Proficient in version control systems like Git, I bring order to code chaos and foster a collaborative coding culture.
+My skill set spans across the web development landscape, from front-end technologies like HTML, CSS, and JavaScript to back-end frameworks such as Node.js and PostgreSQL. I'm well-versed in responsive design, ensuring seamless experiences across devices. Proficient in version control systems like Git, I bring order to code chaos and foster a collaborative coding culture.
 
-📈 My goal is not just to write code but to build solutions that make a meaningful impact. Whether it's optimizing performance, enhancing user interfaces, or solving complex problems, I approach each project with a blend of creativity and pragmatism.
+My goal is not just to write code but to build solutions that make a meaningful impact. Whether it's optimizing performance, enhancing user interfaces, or solving complex problems, I approach each project with a blend of creativity and pragmatism.
 
-Let's code the future together! 🌐💻✨ Connect with me, and let's embark on a journey of innovation, collaboration, and endless lines of code! 🚀 #CodePassionately #CollaborateBrilliantly
+Let's code the future together! Connect with me, and let's embark on a journey of innovation, collaboration, and endless lines of code! #CodePassionately #CollaborateBrilliantly
 
 ### Connect with me:
 
