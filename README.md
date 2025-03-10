@@ -79,7 +79,7 @@ Let's code the future together! Connect with me, and let's embark on a journey o
 - [Simple Styling with Tailwind CSS and React](https://codebuff.hashnode.dev/simple-styling-with-tailwind-css-and-react)
 - [The Power of Hash Tables](https://codebuff.hashnode.dev/the-power-of-hash-tables)
 - [Automating Accessibility Reports with Spring Boot & React](https://codebuff.hashnode.dev/automating-accessibility-reports-with-spring-boot-and-react)
-- [Web Scraping Drupal Websites with Node.js and Puppeteer]([https://codebuff.hashnode.dev/automating-accessibility-reports-with-spring-boot-and-react](https://codebuff.hashnode.dev/web-scraping-drupal-websites-with-nodejs-and-puppeteer))
+- [Web Scraping Drupal Websites with Node.js and Puppeteer](https://codebuff.hashnode.dev/automating-accessibility-reports-with-spring-boot-and-react](https://codebuff.hashnode.dev/web-scraping-drupal-websites-with-nodejs-and-puppeteer))
 <!--- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
